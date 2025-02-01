@@ -12,3 +12,6 @@ https://mathematica.stackexchange.com/questions/161038/plotting-solutions-of-the
 
 Hydrogen Atom Radial Functions | Wolfram Demonstrations Project
 https://demonstrations.wolfram.com/HydrogenAtomRadialFunctions
+
+Plots of Quantum Probability Density Functions in the Hydrogen Atom | Wolfram Demonstrations Project
+https://demonstrations.wolfram.com/PlotsOfQuantumProbabilityDensityFunctionsInTheHydrogenAtom/
