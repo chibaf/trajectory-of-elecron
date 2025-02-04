@@ -1,5 +1,10 @@
 # trajectory-of-hydrogen-elecron
 
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/3070e2ea-187e-4c83-ba79-60b3b59929ba" />
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/cfb8f3e2-c80d-4a49-806a-613f27c70ea9" />
+
+
 ## references
 
 Excel de Manabu Ryoushi Rikigaku (Learning about Quantum Mechanics with Excel), 
