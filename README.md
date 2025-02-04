@@ -1,6 +1,11 @@
 # trajectory-of-hydrogen-elecron
 
 ## references
+
+Excel de Manabu Ryoushi Rikigaku (Learning about Quantum Mechanics with Excel), 
+Kunio Yasue,  Blue Backs,  Kodansha,  2001,
+(in japanese)
+
 Hydrogen Wavefunctions
 http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/hydwf.html
 
