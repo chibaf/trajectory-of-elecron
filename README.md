@@ -7,6 +7,9 @@
 
 ## references
 
+Wolfram Player for Notebooks
+https://www.wolfram.com/player/
+
 Excel de Manabu Ryoushi Rikigaku (Learning about Quantum Mechanics with Excel), 
 Kunio Yasue,  Blue Backs,  Kodansha,  2001,
 (in japanese)
