@@ -15,13 +15,13 @@ i h \frac{\partial \psi}{\partial t}=-\frac{\hbar^2}{2m}\varDelta\psi+\frac{e^2}
 $$
 
 $$
-\left\{
+%\left\{
 \begin{array}{l}
 X(t+\Delta t)=\displaystyle X(t)+\left(\frac{1}{X(t)}-\frac{1}{2}\frac{X(t)}{\sqrt{X(t)^{2}+Y(t)^{2}+Z(t)^{2}}}\right)\Delta t+A(t)\sqrt{\Delta t} \\
 Y(t+\Delta t)=\displaystyle Y(t)-\frac{1}{2}\frac{Y(t)}{\sqrt{X(t)^{2}+Y(t)^{2}+Z(t)^{2}}}\Delta t+B(t)\sqrt{\Delta t} \\
 Z(t+\Delta t)=\displaystyle Z(t)-\frac{1}{2}\frac{Z(t)}{\sqrt{X(t)^{2}+Y(t)^{2}+Z(t)^{2}}}\Delta t+C(t)\sqrt{\Delta t}
 \end{array}
-\right.
+%\right.
 $$
 
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/3070e2ea-187e-4c83-ba79-60b3b59929ba" />
