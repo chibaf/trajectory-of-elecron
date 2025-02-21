@@ -1,13 +1,13 @@
 # trajectory-of-hydrogen-elecron
 
 $$
-\left\{
+#\left\{
 \begin{array}{lll}
 X(t+\varDelta t)&=&X(t)+DX(t)\varDelta t+A(t)\sqrt{\frac{\hbar}{m}}\sqrt{\varDelta t} \\
 Y(t+\varDelta t)&=&Y(t)+DY(t)\varDelta t+B(t)\sqrt{\frac{\hbar}{m}}\sqrt{\varDelta t} \\
 Z(t+\varDelta t)&=&Z(t)+DZ(t)\varDelta t+C(t)\sqrt{\frac{\hbar}{m}}\sqrt{\varDelta t}
 \end{array}
-\right.
+#\right.
 $$
 
 
