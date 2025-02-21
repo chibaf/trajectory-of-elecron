@@ -10,6 +10,10 @@ Z(t+\varDelta t)&=&Z(t)+DZ(t)\varDelta t+C(t)\sqrt{\frac{\hbar}{m}}\sqrt{\varDel
 %\right.
 $$
 
+$$
+i h \frac{\partial \psi}{\partial t}=-\frac{\hbar^2}{2m}\varDelta\psi+\frac{e^2}{\sqrt{x^2+y^2+z^2}}\psi
+$$
+
 
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/3070e2ea-187e-4c83-ba79-60b3b59929ba" />
 
