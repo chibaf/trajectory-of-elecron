@@ -15,6 +15,18 @@ i h \frac{\partial \psi}{\partial t}=-\frac{\hbar^2}{2m}\varDelta\psi+\frac{e^2}
 $$
 
 $$
+-\frac{1}{2}\varDelta+\frac{1}{\sqrt{x^2+y^2+z^2}}
+$$
+
+$$
+E=-\frac{1}{2},-\frac{1}{8},-\frac{1}{18},\cdots,-\frac{1}{2n^{2}},\cdots
+$$
+
+$$
+\psi=\frac{1}{4\sqrt{2\pi}}x\exp\left(-\frac{1}{2}\sqrt{x^2+y^{2}+z^{2}}+\frac{i}{8}t\right)
+$$
+
+$$
 %\left\{
 \begin{array}{l}
 X(t+\Delta t)=\displaystyle X(t)+\left(\frac{1}{X(t)}-\frac{1}{2}\frac{X(t)}{\sqrt{X(t)^{2}+Y(t)^{2}+Z(t)^{2}}}\right)\Delta t+A(t)\sqrt{\Delta t} \\
